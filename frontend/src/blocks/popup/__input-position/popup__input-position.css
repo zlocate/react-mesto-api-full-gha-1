@@ -1,0 +1,11 @@
+.popup__input-position {
+  margin: 0 0 30px 0;
+  padding: 0 0 13px 0;
+  height: 43px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.popup__input-position:last-of-type{
+  margin: 0;
+}

@@ -1,0 +1,27 @@
+.element__item {
+  margin: 0;
+  padding: 25px 15px 31px 21px;
+  max-width: 246px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1152px) {
+  .element__item {
+    padding: 25px 10px 31px 10px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .element__item {
+    padding: 25px 5px 31px 5px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .element__item {
+    height: 79px;
+    padding: 0 15px 0 21px;
+  }
+}

@@ -1,0 +1,36 @@
+.profile {
+  padding: 40px 0 0;
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 880px;
+  min-height: 160px;
+  display: grid;
+  grid-template-columns: 120px 366px 1fr 150px;
+  grid-template-rows: 120px;
+  grid-template-areas: 'avatar' 'profile__intro' 'button__add';
+}
+
+@media screen and (max-width: 1152px) {
+  .profile {
+    max-width: 730px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .profile {
+    max-width: 500px;
+    grid-template-columns: 100px 270px 1fr 100px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .profile {
+    padding: 42px 19px 0;
+    max-width: 320px;
+    max-height: 364px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+}

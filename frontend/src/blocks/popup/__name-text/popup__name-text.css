@@ -1,0 +1,15 @@
+.popup__name-text {
+  padding: 0 0 13px 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 16.94px;
+  font-style: normal;
+  font-weight: 400;
+  color: #000;
+  opacity: 100%;
+  position: relative;
+}
+
+.popup__name-text:last-of-type {
+  margin-bottom: 0;
+}

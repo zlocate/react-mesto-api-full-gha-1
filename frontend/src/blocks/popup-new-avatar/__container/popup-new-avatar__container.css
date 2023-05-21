@@ -1,0 +1,17 @@
+.popup-new-avatar__container {
+  margin: auto;
+  position: fixed;
+  right: 50%;
+  bottom: 50%;
+  transform: translate(50%, 50%);
+  width: 430px;
+  height: 272px;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 544px) {
+  .popup-new-avatar__container {
+    max-width: 305px;
+    min-height: 290px;
+  }
+}

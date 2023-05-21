@@ -1,0 +1,10 @@
+.popup-delete__container {
+  margin: auto;
+  position: fixed;
+  right: 50%;
+  bottom: 50%;
+  transform: translate(50%, 50%);
+  width: 430px;
+  height: 181px;
+  background-color: #fff;
+}

@@ -1,0 +1,11 @@
+.popup-new-avatar__title {
+  margin: 34px 64px 54px 36px;
+  padding: 0;
+  color: #000;
+  font-size: 24px;
+  line-height: 29px;
+  font-style: normal;
+  font-weight: 900;
+  text-align: left;
+  box-sizing: border-box;
+}

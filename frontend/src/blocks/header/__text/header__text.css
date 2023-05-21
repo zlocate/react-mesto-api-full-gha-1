@@ -1,0 +1,10 @@
+.header__text {
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+  font-style: normal;
+  font-weight: 500;
+}

@@ -1,0 +1,17 @@
+.popup__image {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto; 
+  padding: 60px 155px 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+
+@media screen and (max-width: 767px) {
+  .popup__image {
+    padding: 50px 80px 40px;
+  }
+}
