@@ -57,7 +57,7 @@ class Auth {
 }
 
 const useAuth = new Auth({
-  url: "https://auth.nomoreparties.co",
+  url: "https://domainname.anastasiya.nomoredomains.monster",
   headers: {
     Accept: "application/json",
     "Content-Type": "application/json",
