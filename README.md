@@ -8,7 +8,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.105.176
+IP 51.250.105.176
 
 Frontend https://domainname.anastasiya.nomoredomains.monster
 
